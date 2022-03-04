@@ -31,7 +31,6 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-
   - title: Realtime monitoring of your system's download and upload speed from Menubar.
     description: # New Feature Description
     fontawesome_icon_name: 
