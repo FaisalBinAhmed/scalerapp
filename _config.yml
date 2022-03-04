@@ -32,23 +32,23 @@ youtube_username:
 # Feature List                            Edit, add or remove features to be presented.
 features:
   - title: Realtime monitoring of your system's download and upload speed from Menubar.
-    description: # New Feature Description
-    fontawesome_icon_name: 
+    description: " " # New Feature Description
+    fontawesome_icon_name: magic
 
   - title: Chart overview of the recent network speeds.
-    description: # New Feature Description
-    fontawesome_icon_name: 
+    description: " " # New Feature Description
+    fontawesome_icon_name: magic
 
   - title: Universal App support. (works with Native M1 macOS devices)
-    description: # New Feature Description
-    fontawesome_icon_name: 
+    description: " " # New Feature Description
+    fontawesome_icon_name: magic
 
   - title: Customizations - tweak how the Menubar data looks by modifying visible speed type, its unit, number of lines, and color.
-    description: # New Feature Description
-    fontawesome_icon_name: # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    description: " " # New Feature Description
+    fontawesome_icon_name: magic # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
    - title:  Pause or Resume the app anytime.
-    description: # Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+    description: " "# Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
     fontawesome_icon_name: magic
 
 # Theme Settings
