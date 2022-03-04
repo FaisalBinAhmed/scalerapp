@@ -31,45 +31,25 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: See What's Happening in Hacker News
-    description: Read the top and latest posts from HN, and many more.
+  - title: Speed Meter
+    description: Realtime monitoring of your system's download and upload speed from Menubar.
     fontawesome_icon_name: newspaper
 
-  - title: Dark Mode
-    description: Dark mode for your night time viewing. Can automatically sync with your system.
+  - title: Chart View
+    description: Chart overview of the recent network speeds.
     fontawesome_icon_name: moon
 
-  - title: Beautifully Crafted Skins
-    description: Six meticulously picked color skins. Pick whichever you like and sync with Light/Dark Mode.
+  - title: Native
+    description: Universal App support. (works with Native M1 macOS devices)
     fontawesome_icon_name: palette
 
-  - title: Powerful Search Features
-    description: Search HN posts powered by Algolia - just like the HN web. Sort by date, and filter by post type.
+  - title: Customizations
+    description: tweak how the Menubar data looks by modifying visible speed type, its unit, number of lines, and color.
     fontawesome_icon_name: search
 
-  - title: Highly Customizable
-    description: Make the app look like the way you want.
+  - title: Control
+    description: Pause or Resume the app anytime.
     fontawesome_icon_name: tools
-
-  - title: Read History
-    description: Keep track of your last read articles.
-    fontawesome_icon_name: history
-
-  - title: Profile View
-    description: View yours and others' profile and their latest activities.
-    fontawesome_icon_name: address-card
-
-  - title: Read Comments in Great Details
-    description: Trilby was created with reading comments in mind. If you're like me who uses HN mainly to read comments, Trilby is the app for you.
-    fontawesome_icon_name: book
-
-  - title: Login Functions
-    description: Use features like commenting, upvoting, and posting new stories that require you to login right from the app.
-    fontawesome_icon_name: edit
-
-  - title: Native Links Support
-    description: Open and read native HN links within the app itself. Look out for that Orange link.
-    fontawesome_icon_name: paperclip # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 # Feature List                            Edit, add or remove features to be presented.
 # features:
