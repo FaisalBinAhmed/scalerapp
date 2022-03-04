@@ -31,25 +31,67 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: Realtime monitoring of your system's download and upload speed from Menubar.
-    description: " " # New Feature Description
-    fontawesome_icon_name: magic
+  - title: See What's Happening in Hacker News
+    description: Read the top and latest posts from HN, and many more.
+    fontawesome_icon_name: newspaper
 
-  - title: Chart overview of the recent network speeds.
-    description: " " # New Feature Description
-    fontawesome_icon_name: magic
+  - title: Dark Mode
+    description: Dark mode for your night time viewing. Can automatically sync with your system.
+    fontawesome_icon_name: moon
 
-  - title: Universal App support. (works with Native M1 macOS devices)
-    description: " " # New Feature Description
-    fontawesome_icon_name: magic
+  - title: Beautifully Crafted Skins
+    description: Six meticulously picked color skins. Pick whichever you like and sync with Light/Dark Mode.
+    fontawesome_icon_name: palette
 
-  - title: Customizations - tweak how the Menubar data looks by modifying visible speed type, its unit, number of lines, and color.
-    description: " " # New Feature Description
-    fontawesome_icon_name: magic # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title: Powerful Search Features
+    description: Search HN posts powered by Algolia - just like the HN web. Sort by date, and filter by post type.
+    fontawesome_icon_name: search
 
-   - title:  Pause or Resume the app anytime.
-    description: " "# Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name: magic
+  - title: Highly Customizable
+    description: Make the app look like the way you want.
+    fontawesome_icon_name: tools
+
+  - title: Read History
+    description: Keep track of your last read articles.
+    fontawesome_icon_name: history
+
+  - title: Profile View
+    description: View yours and others' profile and their latest activities.
+    fontawesome_icon_name: address-card
+
+  - title: Read Comments in Great Details
+    description: Trilby was created with reading comments in mind. If you're like me who uses HN mainly to read comments, Trilby is the app for you.
+    fontawesome_icon_name: book
+
+  - title: Login Functions
+    description: Use features like commenting, upvoting, and posting new stories that require you to login right from the app.
+    fontawesome_icon_name: edit
+
+  - title: Native Links Support
+    description: Open and read native HN links within the app itself. Look out for that Orange link.
+    fontawesome_icon_name: paperclip # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+
+# Feature List                            Edit, add or remove features to be presented.
+# features:
+#   - title: Realtime monitoring of your system's download and upload speed from Menubar.
+#     description: " " # New Feature Description
+#     fontawesome_icon_name: magic
+
+#   - title: Chart overview of the recent network speeds.
+#     description: " " # New Feature Description
+#     fontawesome_icon_name: magic
+
+#   - title: Universal App support. (works with Native M1 macOS devices)
+#     description: " " # New Feature Description
+#     fontawesome_icon_name: magic
+
+#   - title: Customizations - tweak how the Menubar data looks by modifying visible speed type, its unit, number of lines, and color.
+#     description: " " # New Feature Description
+#     fontawesome_icon_name: magic # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+
+#    - title:  Pause or Resume the app anytime.
+#     description: " "# Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+#     fontawesome_icon_name: magic
 
 # Theme Settings
 topbar_color: "#000000"
