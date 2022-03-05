@@ -7,7 +7,7 @@ include_in_header: true
 **Last updated**  
 February 14 2022
 
-# Privacy Policy for Trilby
+# Privacy Policy for Scaler
 
 Scaler does not collect any user information. User preference for the app is stored within the device itself and does not leave the device.
 
